@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "Stemsync Studio",
+    "subtitle": "Built with Zara",
+    "description": "Stemsync Studio is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://2ba30f673930427eb08ffea9c3b56b65-g6oz-d1l2da157-vistara.vercel.app",
+    "splashImageUrl": "https://2ba30f673930427eb08ffea9c3b56b65-g6oz-d1l2da157-vistara.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://2ba30f673930427eb08ffea9c3b56b65-g6oz-d1l2da157-vistara.vercel.app/image.png",
+    "tagline": "Stemsync Studio",
+    "screenshotUrls": [
+      "https://2ba30f673930427eb08ffea9c3b56b65-g6oz-d1l2da157-vistara.vercel.app/screenshot.png",
+      "https://2ba30f673930427eb08ffea9c3b56b65-g6oz-d1l2da157-vistara.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://2ba30f673930427eb08ffea9c3b56b65-g6oz-d1l2da157-vistara.vercel.app/api/webhook"
+  }
+}

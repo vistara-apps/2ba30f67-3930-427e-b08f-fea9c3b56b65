@@ -1,0 +1,14 @@
+{
+  "name": "Stemsync Studio",
+  "description": "Stemsync Studio is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://2ba30f67-3930-427e-b08f-fea9c3b56b65.vistara.dev",
+  "properties": {
+    "app": {
+      "name": "Stemsync Studio",
+      "description": "Stemsync Studio is a Base Mini App built with Zara.",
+      "url": "https://2ba30f67-3930-427e-b08f-fea9c3b56b65.vistara.dev",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
