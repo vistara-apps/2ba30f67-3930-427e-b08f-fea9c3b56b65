@@ -2,7 +2,7 @@
 
 import { ReactNode, useState } from 'react';
 import { motion } from 'framer-motion';
-import { Mic, Drum, Music, Music2, Play, Pause, Volume2 } from 'lucide-react';
+import { Mic, Drumstick, Music, Music2, Play, Pause, Volume2 } from 'lucide-react';
 
 interface Stem {
   id: string;
@@ -22,7 +22,7 @@ interface StemCardProps {
 
 const stemIcons = {
   vocal: Mic,
-  drums: Drum,
+  drums: Drumstick,
   instruments: Music,
   bass: Music2
 };
