@@ -36,7 +36,7 @@ export function FileUploader({
   });
 
   return (
-    <motion.div
+    <div
       {...getRootProps()}
       className={`
         relative cursor-pointer border-2 border-dashed rounded-2xl p-12 text-center transition-all duration-300
@@ -47,8 +47,6 @@ export function FileUploader({
         ${disabled ? 'opacity-50 cursor-not-allowed' : ''}
         ${isProcessing ? 'pointer-events-none' : ''}
       `}
-      whileHover={!disabled && !isProcessing ? { scale: 1.02 } : {}}
-      whileTap={!disabled && !isProcessing ? { scale: 0.98 } : {}}
     >
       <input {...getInputProps()} />
       
@@ -111,6 +109,6 @@ export function FileUploader({
           className="absolute inset-0 bg-gradient-to-br from-accent/20 to-primary/20 rounded-2xl border-2 border-accent"
         />
       )}
-    </motion.div>
+    </div>
   );
 }
